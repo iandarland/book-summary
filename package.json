@@ -1,0 +1,25 @@
+{
+  "name": "book-summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iandarland/book-summary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iandarland/book-summary/issues"
+  },
+  "homepage": "https://github.com/iandarland/book-summary#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.4",
+    "langchain": "0.0.105"
+  }
+}
